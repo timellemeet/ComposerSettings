@@ -1,0 +1,5 @@
+{
+    "require": {
+        "platformsh/cli": "^3.4"
+    }
+}
